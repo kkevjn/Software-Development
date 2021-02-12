@@ -1,3 +1,4 @@
 # Software Development [Units 3&4]
 
-U301-KK02 Data Structures - Dictionary folder
+Dictionary | U301-KK02 Data Structures
+https://docs.google.com/document/d/196H_CxLlFiyrgh3hXdYYHGD_o8FTWyl87XmzSdecwso/edit
