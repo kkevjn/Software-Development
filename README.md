@@ -7,7 +7,7 @@ Each folder is equivalent to one exercise / project.
 ## Contents
 
 ### Dictionary | U301-KK02 Data Structures
-* [Exercise](https://docs.google.com/document/d/196H_CxLlFiyrgh3hXdYYHGD_o8FTWyl87XmzSdecwso/edit) - The instructions / task.
+[Exercise](https://docs.google.com/document/d/196H_CxLlFiyrgh3hXdYYHGD_o8FTWyl87XmzSdecwso/edit) - The instructions / task.
 #### **Features**
 ```
 - Status when 
@@ -16,4 +16,5 @@ Each folder is equivalent to one exercise / project.
       * User removed
       * No input given
       * Users shown
+- Status disappear after 2 seconds
 ```
