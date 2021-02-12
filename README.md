@@ -18,3 +18,4 @@ Each folder is equivalent to one exercise / project.
       * Users shown
 - Status disappear after 2 seconds
 ```
+[Test](Dictionary)
