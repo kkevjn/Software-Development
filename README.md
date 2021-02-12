@@ -8,6 +8,7 @@ Each folder is equivalent to one exercise / project.
 
 ### Dictionary | _U301-KK02 Data Structures_
 [Exercise](https://docs.google.com/document/d/196H_CxLlFiyrgh3hXdYYHGD_o8FTWyl87XmzSdecwso/edit) - The instructions / task.
+[File](Dictionary) - Direct open the folder location.
 #### **Features**
 ```
 - Status when 
@@ -18,4 +19,4 @@ Each folder is equivalent to one exercise / project.
       * Users shown
 - Status disappear after 2 seconds
 ```
-[Test](Dictionary)
+
